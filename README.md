@@ -14,8 +14,16 @@ This project analyzes revenue growth opportunities for **Regork**, a national gr
 - **`media/`:** Includes a video presentation summarizing the findings.
 
 ## 🚀 How to Use
-Clone the repository, navigate to the project folder, and open the Jupyter Notebook for detailed analysis:
+1. Clone the repository, navigate to the project folder, and open the Jupyter Notebook for detailed analysis:
 ```bash
 git clone https://github.com/your-username/Regork-Growth-Analysis.git
 cd Regork-Growth-Analysis
+```
+2. Open the Jupyter Notebook (notebooks/Final_Project.ipynb) to explore the analysis.
+   
+3. View the video presentation in the media/ folder for a project summary.
+
+## 📹
+- [HTML Export of Analysis](./notebooks/Report.html)
+- [Video Presentation](./media/presentation.mp4)
 
